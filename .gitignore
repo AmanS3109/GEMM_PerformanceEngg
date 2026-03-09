@@ -1,0 +1,23 @@
+# Python virtual environment
+venv/
+__pycache__/
+
+# Compiled CUDA binaries (Executables)
+gemm
+cublas_gemm
+gemm_reg
+gemm_warp
+wmma_gemm
+wmma_shared
+wmma_pipeline
+wmma_async
+main
+
+# Object files and typical build artifacts
+*.o
+*.out
+*.exe
+
+# OS generated files
+.DS_Store
+Thumbs.db
