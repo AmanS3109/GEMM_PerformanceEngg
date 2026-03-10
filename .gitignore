@@ -12,6 +12,7 @@ wmma_shared
 wmma_pipeline
 wmma_async
 main
+naive
 
 # Object files and typical build artifacts
 *.o
